@@ -15,6 +15,7 @@ By the end of this article, you will have:
 * [Linux config Bash scripting for beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners): This is perfect if what you want is to learn the basics, quickly. With examples
 * [Learn Shell](https://www.learnshell.org/): Very complete, from basic to advanced with lots of examples
 * [Enable sysadmin](https://www.redhat.com/sysadmin/topics/bash): Has many practical articles, like this one. You may find a few of mine there, with [their Open Source code](https://github.com/josevnz). :-D
+* [FreeCodeCamp](https://www.freecodecamp.org/news/search/?query=bash): Not only Bash but many other languages. Be prepared to spend days brownsing this one.
 
 ## Reference guide
 
