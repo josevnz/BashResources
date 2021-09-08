@@ -71,4 +71,8 @@ What if you want to try something, but you don't have access to Linux/ Unix? Thi
 
 ## Wrap up
 
-We cover several online resources that will help you to become a better programmer. Do not forget also that practice is the best way to learn something, so go ahead and start writting a few scripts!
+We covered several online resources that will help you to become a better Bash programmer. For that keep in mind:
+* Learn basic concepts by looking at the online tutorials, but do always check the reference guide. They have the ultimate trust (well, almost always :-))
+* Avoid common mistakes by checking SpeelCheck and OWASP websites. You will thanks yourself later
+* Learn by example by looking how others solve common problems (in places like GitHub). But also be critic and if you find a bug, then contribute and report it or even better, submit a patch.
+* Do not forget that practice is the best way to learn something, so go ahead and start writting a few scripts!
